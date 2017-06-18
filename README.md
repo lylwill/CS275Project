@@ -1,2 +1,2 @@
 # CS275Project
-Artificial Life
+This is the project of CS275 Artificial Life @ UCLA
