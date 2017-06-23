@@ -6,3 +6,5 @@ We do not add executable since we implement a feature to make user input to our 
 They can select low, median and high for the specified variables.
 
 To run the program, open a terminal and type: python main.py
+
+The final report is included as well.
